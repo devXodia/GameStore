@@ -818,7 +818,6 @@ C:\Users\alen-\Desktop\projects\blazor\GameStore\GameStore.Client\obj\Debug\net7
 C:\Users\alen-\Desktop\projects\blazor\GameStore\GameStore.Client\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\alen-\Desktop\projects\blazor\GameStore\GameStore.Client\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\alen-\Desktop\projects\blazor\GameStore\GameStore.Client\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\alen-\Desktop\projects\blazor\GameStore\GameStore.Client\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\alen-\Desktop\projects\blazor\GameStore\GameStore.Client\obj\Debug\net7.0\scopedcss\bundle\GameStore.Client.styles.css
 C:\Users\alen-\Desktop\projects\blazor\GameStore\GameStore.Client\obj\Debug\net7.0\scopedcss\projectbundle\GameStore.Client.bundle.scp.css
 C:\Users\alen-\Desktop\projects\blazor\GameStore\GameStore.Client\obj\Debug\net7.0\GameStore.Client.csproj.CopyComplete
