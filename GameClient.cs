@@ -6,7 +6,7 @@ public static class GameClient
 {
     private static readonly List<Game> games = new(){
         new Game(){
-            Id = 1,
+            Id = 0,
             Name = "Tekken 8",
             Genre = "Fighting",
             Price = 89.99M,
@@ -22,7 +22,7 @@ public static class GameClient
         },
 
         new Game(){
-            Id = 1,
+            Id = 2,
             Name = "Hogwarts Legacy",
             Genre = "Roleplaying",
             Price = 69.99M,
@@ -30,7 +30,7 @@ public static class GameClient
         },
 
         new Game(){
-            Id = 1,
+            Id = 3,
             Name = "Final Fatnasy XIV",
             Genre = "Roleplaying",
             Price = 59.99M,
@@ -40,6 +40,12 @@ public static class GameClient
     public static Game[] GetGames()
     {
         return games.ToArray();
+    }
+
+    public static void AddGame(Game game)
+    {
+        game.Id = games.Max(game => game.Id + 1);
+        games.Add(game);
     }
 
 }
