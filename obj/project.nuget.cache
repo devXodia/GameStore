@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "65NmW0OPlcB2bsjUtFBtoz4p0WR+JwWc3LRevIJYgnTXAG9HBOerKZ5brg/gVIOuh6Qu0VUy4hp0NgMbIKB3Ag==",
+  "dgSpecHash": "i89SruJ+j3cegGfGQJxKU8fP9ENamYlFfEphAsdWNRkRdUdXG4me1ftSCegk1zTznznLUoCSefZyXDwn0RtfTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\alen-\\Desktop\\projects\\blazor\\GameStore\\GameStore.Client\\GameStore.Client.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,9 @@
     "C:\\Users\\alen-\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\alen-\\.nuget\\packages\\microsoft.jsinterop\\7.0.15\\microsoft.jsinterop.7.0.15.nupkg.sha512",
     "C:\\Users\\alen-\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.15\\microsoft.jsinterop.webassembly.7.0.15.nupkg.sha512",
+    "C:\\Users\\alen-\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\alen-\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\alen-\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.1\\microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
     "C:\\Users\\alen-\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\alen-\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\alen-\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
